@@ -4,11 +4,11 @@ int main()
     int r1, c1, r2, c2;
     printf("\nEnter row of first matrix\n");
     scanf("%d", &r1);
-    printf("Enter columns of first matrix\n");
+    printf("\nEnter columns of first matrix\n");
     scanf("%d", &c1);
     printf("\nEnter row of second matrix\n");
     scanf("%d", &r2);
-    printf("Enter columns of second matrix\n");
+    printf("\nEnter columns of second matrix\n");
     scanf("%d", &c2);
     if (r1 == r2 && c1 == c2)
     {
