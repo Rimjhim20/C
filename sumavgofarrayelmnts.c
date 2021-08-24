@@ -4,7 +4,7 @@ int main(){
     float avg;
     printf("Size of array:\n");
     scanf("%d",&num);
-    printf("Enter array elements:\n");
+    printf("\n Enter array elements:\n");
     for(i=0;i<num;i++){
         scanf("%d",&a[i]);
     }
